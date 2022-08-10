@@ -1,5 +1,6 @@
-public class IndiaMap {
+// Creating a India Map using  for loops by using Java. 
 
+public class IndiaMap {
 	public static void main(String[] args) {
 		for(int i=1; i<=2; i++)
 		  {
