@@ -357,5 +357,6 @@ public class IndiaMap {
 		    System.out.println ();
 		  }
 	}
+
 }
 
