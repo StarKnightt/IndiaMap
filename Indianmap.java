@@ -357,6 +357,5 @@ public class IndiaMap {
 		    System.out.println ();
 		  }
 	}
-
 }
 // Have a wonderful life.
