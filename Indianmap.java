@@ -359,4 +359,4 @@ public class IndiaMap {
 	}
 }
 
-// Have a wonderful life.
+// Have a wonderful Day. 
