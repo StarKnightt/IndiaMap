@@ -1,7 +1,7 @@
 // Creating a India Map using  for loops by using Java. 
 // Create a class first and do everythng here no need to extend that class.
 
-public class IndiaMap {
+public class Indianmap {
 	public static void main(String[] args) {
 		for(int i=1; i<=2; i++)
 		  {
